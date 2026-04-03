@@ -1,0 +1,1 @@
+เขียนcode DATA โดยใช้นามสกุล .sql จากนั้นจึงลง postgresql(Microsoft) ใน VScode และสร้าง DataBase บน Server postgresql แล้ว และนำลิ้งบน Server ลงใส่ใน VScode ตรง connection string จากนั้นคลิ๊กให้เชื่อมต่อ และกด Run เพื่อให้ระบบสร้าง Table บน DataBase Server ที่สร้างไว้ และตรวจสอบโดยการพิมพ์ Select * Form ใน Query เพื่อแสดงผล ใน Terminal

@@ -1,0 +1,1 @@
+เขียนcode DATA โดยใช้นามสกุล .mongodb.js จากนั้นสร้าง DataBase บน Server mongodb  แล้วจึงลง mongodb ใน VScode และนำลิ้งบน Server ลงใส่ใน VScode จากนั้นคลิ๊กให้เชื่อมต่อและเลือก Server ที่ต้องการ และกด Run เพื่อให้ระบบสร้าง Document บน DataBase Server ที่สร้างไว้ และตรวจสอบการสร้าง Document โดยการเข้าไปที่ Server ใน DataBase>Data Explorer
